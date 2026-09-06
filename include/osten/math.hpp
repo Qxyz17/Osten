@@ -4,6 +4,7 @@
 #include <cmath>
 #include <cstddef>
 #include <initializer_list>
+#include <iterator>
 #include <limits>
 #include <random>
 #include <stdexcept>
