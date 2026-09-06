@@ -3,9 +3,11 @@
 #include <algorithm>
 #include <cmath>
 #include <cstddef>
+#include <initializer_list>
 #include <limits>
 #include <random>
 #include <stdexcept>
+#include <string>
 #include <vector>
 
 #include "osten/types.hpp"
@@ -133,4 +135,3 @@ inline std::size_t argmax(const Vector& values) {
 }
 
 } // namespace osten::math
-
