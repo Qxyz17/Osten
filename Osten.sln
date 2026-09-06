@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osten", "osten.vcxproj", "{2E5F6C7A-0A9E-4DB8-BB59-3F1D9A7E5C01}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "osten_tests", "osten_tests.vcxproj", "{E5D69B4D-BE5D-45E4-A4C8-739F4D9D9A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5F6C7A-0A9E-4DB8-BB59-3F1D9A7E5C01}.Debug|x64.ActiveCfg = Debug|x64
+		{2E5F6C7A-0A9E-4DB8-BB59-3F1D9A7E5C01}.Debug|x64.Build.0 = Debug|x64
+		{2E5F6C7A-0A9E-4DB8-BB59-3F1D9A7E5C01}.Release|x64.ActiveCfg = Release|x64
+		{2E5F6C7A-0A9E-4DB8-BB59-3F1D9A7E5C01}.Release|x64.Build.0 = Release|x64
+		{E5D69B4D-BE5D-45E4-A4C8-739F4D9D9A02}.Debug|x64.ActiveCfg = Debug|x64
+		{E5D69B4D-BE5D-45E4-A4C8-739F4D9D9A02}.Debug|x64.Build.0 = Debug|x64
+		{E5D69B4D-BE5D-45E4-A4C8-739F4D9D9A02}.Release|x64.ActiveCfg = Release|x64
+		{E5D69B4D-BE5D-45E4-A4C8-739F4D9D9A02}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

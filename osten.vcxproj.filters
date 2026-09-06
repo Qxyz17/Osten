@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files"><UniqueIdentifier>{3E5E8B42-7E54-4CB2-9D2E-0A98A0D7B6F0}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files"><UniqueIdentifier>{5A0E71C7-15AC-4C2B-B8E3-2EAA0E6A76E1}</UniqueIdentifier></Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\osten\encoder.hpp"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\osten\engine.hpp"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\osten\evaluation.hpp"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\osten\math.hpp"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\osten\memory.hpp"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\osten\network.hpp"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\osten\training.hpp"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\osten\types.hpp"><Filter>Header Files</Filter></ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\encoder.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\engine.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\evaluation.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\memory.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\network.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\training.cpp"><Filter>Source Files</Filter></ClCompile>
+  </ItemGroup>
+</Project>
