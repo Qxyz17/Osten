@@ -3,6 +3,7 @@
 #include <cstddef>
 #include <memory>
 #include <string>
+#include <vector>
 
 #include "osten/encoder.hpp"
 #include "osten/memory.hpp"
@@ -35,4 +36,3 @@ private:
 };
 
 } // namespace osten
-

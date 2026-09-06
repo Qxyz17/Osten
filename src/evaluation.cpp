@@ -1,5 +1,6 @@
 #include "osten/evaluation.hpp"
 
+#include <algorithm>
 #include <cmath>
 #include <set>
 
